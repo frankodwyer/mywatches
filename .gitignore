@@ -1,2 +1,11 @@
-
 .DS_Store
+.waf*
+*/build
+*/tools
+*/waf
+clean/.lock-waf_darwin_build
+clean/pebble_app.ld
+chatty/chatty.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+chatty/chatty.xcodeproj/project.xcworkspace/xcuserdata/frank.xcuserdatad/UserInterfaceState.xcuserstate
+chatty/chatty.xcodeproj/xcuserdata/frank.xcuserdatad/xcschemes/chatty.xcscheme
+chatty/chatty.xcodeproj/xcuserdata/frank.xcuserdatad/xcschemes/xcschememanagement.plist
